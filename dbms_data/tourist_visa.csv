@@ -1,0 +1,26 @@
+application_id|port_of_arrival|port_of_departure|travel_Agency|duration
+100075|Banglore|Hydrabad|Make My Trip|30
+100076|Amritsur|Pune|Wolts|30
+100077|Chennai|Rajkot|Neeta|30
+100078|Kolkata|Mumbai|Voyager|30
+100079|Hydrabad|Delhi|Sunshine|30
+100080|Pune|Banglore|Docker|30
+100081|Rajkot|Amritsur|Miami Rides|30
+100082|Mumbai|Chennai|Flask|30
+100083|Delhi|Kolkata|Make My Trip|30
+100084|Banglore|Hydrabad|Wolts|30
+100085|Amritsur|Pune|Neeta|365
+100086|Chennai|Amritsur|Voyager|365
+100087|Kolkata|Chennai|Sunshine|365
+100088|Hydrabad|Kolkata|Docker|365
+100089|Pune|Hydrabad|Miami Rides|365
+100090|Rajkot|Pune|Make My Trip|365
+100091|Mumbai|Rajkot|Make My Trip|365
+100092|Delhi|Mumbai|Make My Trip|365
+100093|Banglore|Delhi|Wolts|365
+100094|Amritsur|Banglore|Neeta|365
+100095|Chennai|Amritsur|Voyager|365
+100096|Kolkata|Chennai|Sunshine|365
+100097|Hydrabad|Kolkata|Docker|365
+100098|Pune|Hydrabad|Miami Rides|365
+100099|Rajkot|Pune|Flask|365
